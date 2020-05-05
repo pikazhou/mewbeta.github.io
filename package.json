@@ -1,0 +1,20 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "nothing here yet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com:22/mewbeta/mewbeta.github.io.git"
+  },
+  "author": "",
+  "license": "License.txt",
+  "dependencies": {
+    "@popperjs/core": "^2.4.0",
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.5.1"
+  }
+}
